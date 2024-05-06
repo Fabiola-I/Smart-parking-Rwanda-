@@ -1,5 +1,15 @@
 # Talent4_StartUp
 
+Hello👋,Am Fabiola Ingabire,
+
+A student at university of rwanda,college of science and technology  pursuing a degree in Electronics and Telecommunication Engineering,
+I've embarked on a transformative journey at Klab, where my passion for innovation and problem-solving has flourished.
+
+
+
+
+
+
 
 Here is the list of hardware component for our project of smart parking system:
 1. Parking Space Sensors:
