@@ -5,7 +5,9 @@ Hello👋,Am Fabiola Ingabire,
 A student at university of rwanda,college of science and technology  pursuing a degree in Electronics and Telecommunication Engineering,
 
  **My journee at kLab**
- My journey began with a rigorous application process for online courses with Ihuzo Academy, a challenge that tested my perseverance and determination. Despite the initial difficulties, I successfully completed the demanding curriculum, culminating in a final project presentation at Klab.
+
+ 
+My journey began with a rigorous application process for online courses with Ihuzo Academy, a challenge that tested my perseverance and determination. Despite the initial difficulties, I successfully completed the demanding curriculum, culminating in a final project presentation at Klab.
 
 During the online courses, I delved into simulations of intricate circuits using ThinkerCAD, a new experience that pushed me beyond my comfort zone. Despite being adept at hardware, mastering the simulation with ESP8266 modules posed unique challenges, particularly in transmitting data to ThingSpeak. Nevertheless, with persistence and dedication, I overcame these hurdles to deliver a comprehensive project proposal on the "Itwararike" device—an innovative solution designed to aid visually impaired individuals those who are not familiar with trafiic sign in safely navigating zebra crossings.
 
@@ -14,6 +16,11 @@ Selected to proceed to the next phase, I transitioned to physical classes at Kla
 One highlight of my journey was delving into PCB design, an area where I already had expertise using EasyEDA. However, the introduction to KiCAD presented a fresh challenge, one that I embraced wholeheartedly. Leveraging my existing skills and determination to adapt, I quickly became proficient in KiCAD, expanding my repertoire in PCB design.
 
 My journey at Klab has not only honed my technical skills but also nurtured my resilience and adaptability. With a relentless pursuit of excellence and a passion for innovation, I am poised to make meaningful contributions in the field of Electronics and Telecommunication Engineering.
+
+**Skills and Expertize:**
+
+
+
 
 
 Here is the list of hardware component for our project of smart parking system:
