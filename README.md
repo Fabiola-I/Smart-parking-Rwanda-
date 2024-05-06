@@ -17,9 +17,20 @@ One highlight of my journey was delving into PCB design, an area where I already
 
 My journey at Klab has not only honed my technical skills but also nurtured my resilience and adaptability. With a relentless pursuit of excellence and a passion for innovation, I am poised to make meaningful contributions in the field of Electronics and Telecommunication Engineering.
 
-**Skills and Expertize:**
 
+# About Me
 
+I am currently a university student at the College of Science and Technology, majoring in Electronics and Telecommunication Engineering. Passionate about the intersection of technology and innovation, I am dedicated to expanding my knowledge and skills in the field of electronics.
+
+With a strong academic foundation and practical experience gained through coursework and personal projects, I am equipped with the expertise to design and develop electronic systems. My education has provided me with a comprehensive understanding of circuit theory, signal processing, and telecommunications principles, which I apply to solve complex engineering challenges.
+
+Driven by curiosity and a desire to make meaningful contributions to the field, I am constantly exploring new technologies and methodologies. I am particularly interested in PCB design and programming, leveraging tools like EasyEDA for efficient PCB development and employing programming languages such as C, C++, and Python to program electronic devices.
+## Skills and Expertise
+### PCB Design:
+I have extensive experience in designing printed circuit boards (PCBs) using EasyEDA, a user-friendly and powerful online PCB design tool. I am proficient in creating schematics, laying out PCBs, and optimizing designs for performance and manufacturability.
+
+### Programming Skills:
+I possess strong programming skills, particularly in programming electronic device hardware. I am proficient in languages such as C, C++, and Python, which enables me to develop firmware and software solutions for electronic devices. I have a deep understanding of embedded systems and can effectively program microcontrollers and other electronic components to meet project requirements.
 
 
 
