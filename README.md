@@ -49,7 +49,7 @@ With a relentless pursuit of excellence and a passion for innovation, I am poise
 
 # THE PROJECT I WORKED ON
 ##
-**1.Traffic light controller(Itwararike device):**this is for aid visual impared and unfamilliar with traffic individual to navigate through the zebra crossing safe 
+**1.Traffic light controller**(Itwararike device):This is for aid visual impared and unfamilliar with traffic individual to navigate through the zebra crossing safe 
 
 **2.Smart agrilture system:** this is an  IoT-based smart agriculture system to optimize water 
 usage, improve crop yield, and provide valuable insights to farmers.
@@ -62,47 +62,56 @@ counts incoming and outgoing vehicles, and notifies users when parking spaces be
 **1. Introduction:**
 
 Parking congestion is a common issue in urban areas, leading to wasted time, increased traffic congestion, and frustrated drivers. To address this challenge, we propose the development of an IoT-based parking management system that provides real-time parking availability information to drivers and optimizes parking resource utilization for parking lot operators.
+
 **2. Project Overview:**
 
    Our solution involves designing and implementing an IoT and embedded system device that accurately tracks parking space occupancy, counts incoming and outgoing vehicles, and notifies users when parking spaces become available or when the parking lot reaches capacity. This system aims to improve the efficiency of parking facilities, enhance the user experience for drivers, and reduce traffic congestion in urban areas.
+   
 **3. Technical Details:**
 
-** Hardware Requirements:**
-  1. Parking Space Sensors:
+**Hardware Requirement**:
+
+  **1. Parking Space Sensors:**
    - Ultrasonic Sensor: HC-SR04 Ultrasonic Sensor
    - Magnetic Sensor: Reed Switch Sensor
-2. Microcontroller/Processor:
+**2. Microcontroller/Processor:**
    - Arduino Uno R3 (for each entry/exit point)(or other arduino)
-3. Communication Module:
+**3. Communication Module:**
    - Wi-Fi Module: ESP8266 Wi-Fi Module (for each Arduino)
-4. Access Control System:
+**4. Access Control System:**
    - Servo Motor (for door opening)
    - RFID Card Reader: RFID-RC522 Module (for identifying vehicles)
-5. LCD Displays:
+**5. LCD Displays:**
    - 16x2 LCD Display Module (for displaying available parking spaces)
-6. CCTV Cameras:
+**6. CCTV Cameras:**
    - Webcam or Raspberry Pi Camera Module (for monitoring)
-7. Power Supply:
+**7. Power Supply:**
    - battery to power device  
-8. Enclosures and Mounting Hardware:
+**8. Enclosures and Mounting Hardware:**
    - 3D printed enclosures for Arduino and other components
-   - Mounting brackets, screws, jumper wires and some resistors 220(ohm),two red LED
+   - Mounting brackets, screws
+   - Other components: Jumper wires,
+                       resistors 220(ohm),
+                       red LED.
   **Software Development:**
 
    - Algorithms for processing sensor data and calculating parking space occupancy.
    - Notification system for alerting users via SMS, email, or mobile app.
    - User interface design for accessing parking availability information.
+   - 
 **4. Integration with IoT Platform:**
      
    - Connect the device to an IoT platform for remote monitoring and management.
    - Utilize cloud services for data storage, analytics, and device management.
+   - 
 **5. User Experience:**
      
    - Develop a user-friendly mobile app or web portal for drivers to access parking availability information and receive notifications.
    - Design intuitive interfaces for seamless interaction with the system.
+   - 
 **6. Benefits and Impact:**
      
-- Reduced traffic congestion and emissions by enabling drivers to quickly find parking spaces.
+   - Reduced traffic congestion and emissions by enabling drivers to quickly find parking spaces.
    - Improved efficiency of parking facilities, leading to faster turnover of parking spaces.
    - Enhanced user experience and reduced frustration for drivers searching for parking.
    - Data-driven insights for urban planners to optimize parking infrastructure and transportation policies.
@@ -110,8 +119,8 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
    - 
 **Conclusion:**
 
-   Our IoT-based parking management system offers a innovative solution to address parking congestion in urban areas.
+ Our IoT-based parking management system offers a innovative solution to address parking congestion in urban areas.
  By providing real-time parking availability information 
-   to drivers and optimizing parking resource utilization for parking lot operators, our system has the potential to improve urban mobility,
+ to drivers and optimizing parking resource utilization for parking lot operators, our system has the potential to improve urban mobility,
  enhance the user experience, and reduce environmental impact.
-We believe that this project has significant value and is well-positioned to make a positive impact in urban communities.
+ We believe that this project has significant value and is well-positioned to make a positive impact in urban communities.
