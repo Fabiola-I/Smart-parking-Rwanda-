@@ -135,6 +135,6 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
  enhance the user experience, and reduce environmental impact.
  We believe that this project has significant value and is well-positioned to make a positive impact in urban communities.
 
- ![Screenshot 2024-05-09 085608](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/93c53272-c7c4-4d8e-93eb-def500da3a78)
-
+ # PROPOSED SMART PARKING STATION
+   ¬¬¬¬¬¬¬¬¬
 
