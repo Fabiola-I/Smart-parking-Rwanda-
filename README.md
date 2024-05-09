@@ -137,5 +137,6 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
 
  # PROPOSED SMART PARKING STATION
    ![SMART CITY - pic](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/bf4b58c4-499f-4996-a101-4bcb014f32dc)
+   # SIMULATION OF THE SYSTEM IN 
 
 
