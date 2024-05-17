@@ -65,7 +65,7 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
 
 **2. Project Overview:**
 
-   Our solution involves designing and implementing an IoT and embedded system device that accurately tracks parking space occupancy, counts incoming and outgoing vehicles, and notifies users when parking spaces become available or when the parking lot reaches capacity. This system aims to improve the efficiency of parking facilities, enhance the user experience for drivers, and reduce traffic congestion in urban areas.
+ Our solution involves designing and implementing an IoT and embedded system device that accurately tracks parking space occupancy, counts incoming and outgoing vehicles, and notifies users when parking spaces become available or when the parking lot reaches capacity. This system aims to improve the efficiency of parking facilities, enhance the user experience for drivers, and reduce traffic congestion in urban areas.
    
 **3. Technical Details:**
 
@@ -108,17 +108,19 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
    - Algorithms for processing sensor data and calculating parking space occupancy.
    - Notification system for alerting users via SMS, email, or mobile app.
    - User interface design for accessing parking availability information.
-   - 
+   - we used ARDUINO IDE
+   - And ADFRUIT IO: To contorl parking over cloud
+ 
 **4. Integration with IoT Platform:**
      
    - Connect the device to an IoT platform for remote monitoring and management.
    - Utilize cloud services for data storage, analytics, and device management.
-   - 
+     
 **5. User Experience:**
      
    - Develop a user-friendly mobile app or web portal for drivers to access parking availability information and receive notifications.
    - Design intuitive interfaces for seamless interaction with the system.
-   - 
+     
 **6. Benefits and Impact:**
      
    - Reduced traffic congestion and emissions by enabling drivers to quickly find parking spaces.
@@ -126,7 +128,7 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
    - Enhanced user experience and reduced frustration for drivers searching for parking.
    - Data-driven insights for urban planners to optimize parking infrastructure and transportation policies.
    - Revenue generation opportunities for parking lot operators through premium services and dynamic pricing.
-   - 
+     
 **Conclusion:**
 
  Our IoT-based parking management system offers a innovative solution to address parking congestion in urban areas.
@@ -137,6 +139,6 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
 
  # PROPOSED SMART PARKING STATION
    ![SMART CITY - pic](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/bf4b58c4-499f-4996-a101-4bcb014f32dc)
-   # SIMULATION OF THE SYSTEM IN 
+ # HARDWARE USED IN PROJECT 
 
 
