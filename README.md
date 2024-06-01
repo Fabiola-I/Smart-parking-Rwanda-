@@ -142,6 +142,9 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
  # HARDWARE USED IN PROJECT 
  ![Hardware](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/3941fe5b-71ac-41ae-9092-e6993a84862e)
  # PROTOTYPE DEMONSTRATION 
+ ![parki](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/e6a38482-7cc3-424c-9f05-720275aa2ec7)
+![parking](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/031d9758-2557-4aba-89bf-6de86e8f581b)
+![parkingi](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/5b70f3d9-4914-45fc-91e1-232c0b0d9802)
  
  
  
