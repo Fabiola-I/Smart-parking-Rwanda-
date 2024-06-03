@@ -142,16 +142,19 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
  # HARDWARE USED IN PROJECT 
  ![Hardware](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/3941fe5b-71ac-41ae-9092-e6993a84862e)
  # PROTOTYPE DEMONSTRATION 
- ![parki](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/e6a38482-7cc3-424c-9f05-720275aa2ec7)
+  This code is for a smart parking system that utilizes Arduino, NodeMCU, RFID readers, ultrasonic sensors, infrared sensors, and servo motors to manage parking slots. It tracks entrance and exit times, updates parking slot statuses in real-time, and controls an automated gate. The system connects to the internet via Wi-Fi to send data to Adafruit IO , enabling remote monitoring and control. The code initializes the necessary hardware, sets up Wi-Fi and IoT platform credentials, and contains a basic structure for handling the main functionalities of the smart parking system, including servo control .
+  ![parki](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/e6a38482-7cc3-424c-9f05-720275aa2ec7)
  # CODE TO RUN ENTRANCE GATE
- ### I have attacked the file contain  the entrance code for arduino under name called to present-entry 
+#### I have attacked the file contain  the entrance code for arduino under name called to present-entry 
 
- # CODE FOR ESP8266 TO CONNECT WITH THE ARDUINO AND SEND THE STATUS OF INFRARED SENSOR INSIDE THE PARKING TO THE CLOUD(ADFRUIT DASHBOARD)
- ### The fille is under name called espentry
+ # CODE FOR ESP8266 TO CONNECT WITH THE ARDUINO 
+ 
+ 
+ #### The fille is under name called espentry
 
-## With this code we will be able to track real time status of parking lot based on infrared sensor on each lot,
-## and be able to know time spended in the lot and the number of car parked this will provide realtime information 
-## based on each change occured inside the parking
+With this code we will be able to track real time status of parking lot based on infrared sensor on each lot,
+and be able to know time spended in the lot and the number of car parked this will provide realtime information 
+based on each change occured inside the parking
 
 
 
