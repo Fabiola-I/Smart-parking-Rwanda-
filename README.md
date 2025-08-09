@@ -32,11 +32,11 @@ I have a deep understanding of embedded systems and can effectively program micr
  # My Journee At kLab
 
  The journey began with a rigorous application process for online courses with Ihuzo Academy, a challenge that tested my perseverance and determination. 
-Despite the initial difficulties, I successfully completed the demanding curriculum, culminating in a final project presentation at Klab.
+Despite the initial difficulties, I completed the demanding curriculum, culminating in a final project presentation at Klab.
 
 During the online courses, I delved into simulations of intricate circuits using ThinkerCAD, a new experience that pushed me beyond my comfort zone.
 Despite being adept at hardware, mastering the simulation with ESP8266 modules posed unique challenges, particularly in transmitting data to ThingSpeak.
-Nevertheless, with persistence and dedication, I overcame these hurdles to deliver a comprehensive project proposal on the "Itwararike" device—an innovative solution designed to aid visually impaired individuals those who are not familiar with trafiic sign in safely navigating zebra crossings.
+Nevertheless, with persistence and dedication, I overcame these hurdles to deliver a comprehensive project proposal on the "Itwararike" device—an innovative solution designed to aid visually impaired individuals who are unfamiliar with traffic signs in safely navigating zebra crossings.
 
 Selected to proceed to the next phase, I transitioned to physical classes at Klab, where I immersed myself in the world of IoT. From understanding the fundamentals to exploring advanced concepts like machine-to-machine communication and data transmission protocols, I embraced every learning opportunity with enthusiasm.
 
@@ -49,9 +49,9 @@ With a relentless pursuit of excellence and a passion for innovation, I am poise
 
 # THE PROJECT I WORKED ON
 ##
-**1.Traffic light controller**(Itwararike device):This is for aid visual impared and unfamilliar with traffic individual to navigate through the zebra crossing safe 
+**1.Traffic light controller**(Itwararike device): This is for aiding the visually impaired and those unfamiliar with traffic to navigate through the zebra crossing safely 
 
-**2.Smart agrilture system:** this is an  IoT-based smart agriculture system to optimize water 
+**2.Smart agriculture system:** This is an  IoT-based smart agriculture system to optimize water 
 usage, improve crop yield, and provide valuable insights to farmers.
 
 **3.Smart parking system:** Our solution involves designing and implementing an IoT and embedded system device that accurately tracks parking space occupancy,
@@ -131,7 +131,7 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
      
 **Conclusion:**
 
- Our IoT-based parking management system offers a innovative solution to address parking congestion in urban areas.
+ Our IoT-based parking management system offers an innovative solution to address parking congestion in urban areas.
  By providing real-time parking availability information 
  to drivers and optimizing parking resource utilization for parking lot operators, our system has the potential to improve urban mobility,
  enhance the user experience, and reduce environmental impact.
@@ -142,19 +142,19 @@ Parking congestion is a common issue in urban areas, leading to wasted time, inc
  # HARDWARE USED IN PROJECT 
  ![Hardware](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/3941fe5b-71ac-41ae-9092-e6993a84862e)
  # PROTOTYPE DEMONSTRATION 
-  This code is for a smart parking system that utilizes Arduino, NodeMCU, RFID readers, ultrasonic sensors, infrared sensors, and servo motors to manage parking slots. It tracks entrance and exit times, updates parking slot statuses in real-time, and controls an automated gate. The system connects to the internet via Wi-Fi to send data to Adafruit IO , enabling remote monitoring and control. The code initializes the necessary hardware, sets up Wi-Fi and IoT platform credentials, and contains a basic structure for handling the main functionalities of the smart parking system, including servo control .
+  This code is for a smart parking system that utilizes Arduino, NodeMCU, RFID readers, ultrasonic sensors, infrared sensors, and servo motors to manage parking slots. It tracks entrance and exit times, updates parking slot statuses in real-time, and controls an automated gate. The system connects to the internet via Wi-Fi to send data to Adafruit IO, enabling remote monitoring and control. The code initializes the necessary hardware, sets up Wi-Fi and IoT platform credentials, and contains a basic structure for handling the main functionalities of the smart parking system, including servo control.
   ![parki](https://github.com/Fabi-starr/Talent4_StartUp/assets/168666815/e6a38482-7cc3-424c-9f05-720275aa2ec7)
  # CODE TO RUN ENTRANCE GATE
-#### I have attacked the file contain  the entrance code for arduino under name called to present-entry 
+#### I have attacked the file containing  the entrance code for Arduino under the name called to present-entry 
 
  # CODE FOR ESP8266 TO CONNECT WITH THE ARDUINO 
  
  
- #### The fille is under name called espentry
+ #### The file is under the name called espentry
 
-With this code we will be able to track real time status of parking lot based on infrared sensor on each lot,
-and be able to know time spended in the lot and the number of car parked this will provide realtime information 
-based on each change occured inside the parking
+With this code, we will be able to track the real-time status of the parking lot based on an infrared sensor on each lot,
+and be able to know the time spent in the lot and the number of cars parked. This will provide real-time information 
+based on each change that occurs inside the parking
 
 
 
